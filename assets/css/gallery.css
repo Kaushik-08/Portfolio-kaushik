@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#bigtex {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#empdv {
+    position: absolute;
+    background-color: #CEEDF0;
+    height: 300px;
+    width: 800px;
+    margin-left: 480px;
+    border-radius: 30px;
+    margin-top: 5%;
+}
+#mlim{
+    position: absolute;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+#mlbim{
+    position: absolute;
+    height: 230px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 150px;
+}
+#fgde{
+    position: absolute;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 250px;
+    margin-top: 400px;
+}
+#fgmo{
+    position: absolute;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-top:300px;
+}
+#toda{
+    position: absolute;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 770px;
+    margin-top: 400px;
+}
+#gthub{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-left: 82%;
+    margin-top: 17px;
+}
+#exptex{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 65%;
+    margin-top: 10px;
+}
+
+#bcpic {
+    position: absolute;
+    height: 40px;
+    width: 3%;
+    margin-left: 10px;
+    margin-top: 10px;
+}

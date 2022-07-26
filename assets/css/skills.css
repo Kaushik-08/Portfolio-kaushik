@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.devpdv {
+    position: absolute;
+    background-color: #CEEDF0;
+    height: 30%;
+    width: 20%;
+    margin-left: 50%;
+    margin-top: 13%;
+    border-radius: 15px;
+}
+
+.dsgdv {
+    position: absolute;
+    background-color: #CEEDF0;
+    height: 30%;
+    width: 20%;
+    margin-left: 50%;
+    margin-top: 30%;
+    border-radius: 15px;
+}
+
+.prsdv {
+    position: absolute;
+    background-color: #CEEDF0;
+    height: 30%;
+    width: 20%;
+    margin-left: 25%;
+    margin-top: 30%;
+    border-radius: 15px;
+}
+
+.skldv {
+    position: absolute;
+    background-color: #CEEDF0;
+    height: 30%;
+    width: 20%;
+    margin-left: 25%;
+    margin-top: 13%;
+    border-radius: 15px;
+}
+
+#bigtex {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1b1b1b;
+    font-size: 250%;
+    margin-left: 39%;
+    margin-top: 80px
+}
+
+#skltex {
+    position: absolute;
+    color: rgb(180, 179, 179);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    margin-left: 45%;
+    margin-top: 50px;
+}
+
+#devp {
+    color: #1b1b1b;
+    margin-top: 20px;
+    margin-left: 85px;
+}
+
+#persp {
+    color: #1b1b1b;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#desp {
+    color: #1b1b1b;
+    margin-top: 20px;
+    margin-left: 107px;
+}
+
+#strp {
+    color: #1b1b1b;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+#iqp {
+    color: #1b1b1b;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+#whltex {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#dgn {
+    color: #1b1b1b;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+#dvp {
+    color: #1b1b1b;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+#psr {
+    color: #1b1b1b;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+#nxtpg {
+    position: absolute;
+    height: 40px;
+    width: 3%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#sklmg {
+    height: 200px;
+    width: 300px;
+    margin-left: 75%;
+    margin-top: 30%;
+}
+#secim{
+    position: absolute;
+    height: 40px;
+    width: 3%;
+    margin-left: 95%;
+    margin-top: 9px;
+}

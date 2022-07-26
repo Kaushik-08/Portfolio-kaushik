@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+}
+
+#bcpic {
+    height: 40px;
+    width: 3%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#typone {
+    color: rgb(180, 179, 179);
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.texal {
+    margin-top: 2%;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bigtex {
+    font-size: 30px;
+}
+
+#clrtex {
+    color: #33adb8;
+}
+
+#wrd {
+    margin-top: 10px;
+}
+
+#abtme {
+    height: 5%;
+    width: 7%;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+
+#inttex {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 46px;
+}
+
+#frshtex {
+    color: #33adb8;
+}
+
+#inst {
+    height: 100px;
+    width: 100px;
+    margin-right: 25px;
+}
+
+#lik {
+    height: 100px;
+    width: 100px;
+    margin-right: 25px;
+}
+
+#behn {
+    height: 100px;
+    width: 100px;
+    margin-right: 25px;
+}
+
+#slck {
+    height: 100px;
+    width: 100px;
+    margin-right: 25px;
+}
+
+#twet {
+    height: 100px;
+    width: 100px;
+    margin-right: 25px;
+}
+
+.allim {
+    margin-left: 30%;
+    margin-top: 25px;
+}
+
+#socpl {
+    position: absolute;
+    height: 30%;
+    width: 30%;
+    margin-left: 60%;
+    margin-top: 15%;
+}
+
+#nxtpg {
+    position: absolute;
+    height: 40px;
+    width: 3%;
+    margin-left: 95%;
+    margin-top: 9px;
+}
