@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .devpdv {
@@ -133,4 +134,32 @@
     width: 3%;
     margin-left: 95%;
     margin-top: 9px;
+}
+.els_pr{
+    margin-top: 100px;
+    height: 400px;
+    width: 1200px;
+    margin-left: 160px;
+}
+#els_one{
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#els_one:hover{
+    transform: scale(1.1);
+}
+#el-tx{
+    width: 450px;
+    position: absolute;
+    margin-left: 600px;
+    top: 1126px;
+    font-size: 17px;
+}
+#els{
+    position: absolute;
+    margin-left: 748px;
+    top: 1062px;
+    font-size: 25px;
 }
